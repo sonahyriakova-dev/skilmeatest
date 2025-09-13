@@ -1,1 +1,3 @@
 Znova mi to nefunguje....
+git check out
+NOVá BRANCH
